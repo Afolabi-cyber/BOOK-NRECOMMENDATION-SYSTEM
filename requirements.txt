@@ -1,0 +1,6 @@
+pandas
+matplotlib
+pickle
+flask
+numpy
+request
